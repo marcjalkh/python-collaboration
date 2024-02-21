@@ -1,0 +1,1 @@
+Project description: machine learning with KNN (K nearest neighbors) using CSV & Pandas in Python
